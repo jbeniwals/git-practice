@@ -1,1 +1,1 @@
-alert("hello git")
+prompt("choose one")
